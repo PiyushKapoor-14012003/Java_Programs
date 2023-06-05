@@ -1,2 +1,2 @@
 # Java_Programs
-ALL typesJava Programs 
+ALL types Java Programs 
